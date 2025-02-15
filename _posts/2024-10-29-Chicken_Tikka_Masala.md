@@ -1,5 +1,5 @@
 ---
-title: Recept - Chicken Tikka Masala
+title: Recept - Chicken Tikka Masala1
 date: 2024-10-29 20:50:00 +0800
 categories: [koken, gerechten]
 tags: [recept, indiaans, food]    # TAG names should always be lowercase
@@ -19,17 +19,17 @@ Een klassiek gerecht voor de regenachtige herfstdagen. Heerlijk met gemarineerde
 
 ## _Ingrediënten voor de marinade:_
 
-| Hoeveelheid             | Ingrediënt                       |
-|-------------------------|----------------------------------|
-| 1 afgestreken tl        | Gemalen kruidnagel               |
-| 1 afgestreken tl        | Gemalen komijn                   |
-| 2 tl                    | Zoet gerookt paprikapoeder       |
-| 2 tl                    | Garam masala                     |
-| 3                       | Citroenen                        |
-| 6 tenen                 | Knoflook                         |
-| 1 stuk (duimgrootte)    | Gemberwortel                     |
-| 6 volle el              | Yoghurt                          |
-| 800 g                   | Kipfilets                        |
+| Hoeveelheid          | Ingrediënt                 |
+| -------------------- | -------------------------- |
+| 1 afgestreken tl     | Gemalen kruidnagel         |
+| 1 afgestreken tl     | Gemalen komijn             |
+| 2 tl                 | Zoet gerookt paprikapoeder |
+| 2 tl                 | Garam masala               |
+| 3                    | Citroenen                  |
+| 6 tenen              | Knoflook                   |
+| 1 stuk (duimgrootte) | Gemberwortel               |
+| 6 volle el           | Yoghurt                    |
+| 800 g                | Kipfilets                  |
 
 ---
 
@@ -51,19 +51,19 @@ Nadat je de kip heb gemarineerd en in de koelkast heb geplaatst is het tijd om d
 
 ### _Ingrediënten voor de Tika Masala Saus:_
 
-| Hoeveelheid           | Ingrediënt                        |
-|-----------------------|-----------------------------------|
-| 2                     | Uien                              |
-| 4 tenen               | Knoflook                          |
-| 1-2                   | Verse rode Spaanse pepers         |
-| 1 bosje (30 g)        | Verse koriander                   |
-| Scheutje              | Olijfolie                         |
-| 1 afgestreken tl      | Gemalen koriander                 |
-| 2 afgestreken tl      | Kurkuma                           |
-| 6 el                  | Gemalen amandelen                 |
-| 2 blikken (400 g elk) | Gepelde tomaten                   |
-| 1 blokje              | Kippenbouillon                    |
-| 2 blikken (400 g elk) | Kokosmelk light                   |
+| Hoeveelheid           | Ingrediënt                |
+| --------------------- | ------------------------- |
+| 2                     | Uien                      |
+| 4 tenen               | Knoflook                  |
+| 1-2                   | Verse rode Spaanse pepers |
+| 1 bosje (30 g)        | Verse koriander           |
+| Scheutje              | Olijfolie                 |
+| 1 afgestreken tl      | Gemalen koriander         |
+| 2 afgestreken tl      | Kurkuma                   |
+| 6 el                  | Gemalen amandelen         |
+| 2 blikken (400 g elk) | Gepelde tomaten           |
+| 1 blokje              | Kippenbouillon            |
+| 2 blikken (400 g elk) | Kokosmelk light           |
 
 ---
 

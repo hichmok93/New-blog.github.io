@@ -1,5 +1,5 @@
 ---
-title: Bao-Buns recept - Asian glazed Chicken.
+title: Bao-Buns recept - Asian glazed Chicken1.
 date: 2024-08-27 11:34:00 +0800
 categories: [Food, Fotografie]
 tags: [Aziatisch keuken]     # TAG names should always be lowercase
@@ -13,16 +13,16 @@ image:
 
 ## _Bao Buns_
 
-| Ingrediënt           | Hoeveelheid       |
-| :------------------- | :---------------- |
-| Bread flour          | 530 grams         |
-| Salt                 | 1 theelepel       |
-| Active dry yeast     | 7 grams           |
-| Sugar                | 40 grams          |
-| Baking powder        | 15 grams          |
-| Milk                 | 50 ml             |
-| Warm water           | 200-230 ml        |
-| Oil                  | 25 ml             |
+| Ingrediënt       | Hoeveelheid |
+| :--------------- | :---------- |
+| Bread flour      | 530 grams   |
+| Salt             | 1 theelepel |
+| Active dry yeast | 7 grams     |
+| Sugar            | 40 grams    |
+| Baking powder    | 15 grams    |
+| Milk             | 50 ml       |
+| Warm water       | 200-230 ml  |
+| Oil              | 25 ml       |
 
 ## Start with the Bao Buns.
 Combine the dry ingredients in a bowl and mix together. In a separate jug add the liquid ingredients (200ml water)and mix.
@@ -38,19 +38,19 @@ Remove from the steamer, leave to cool slightly, peel apart to open them up and 
 
 ## _Pork or Chicken marinade Ingrediënt_
 
-| Ingrediënt             | Hoeveelheid       |
-| :--------------------- | :---------------- |
-| Boneless pork belly  or Chicken    | 700 grams         |
-| Light soy              | 200 ml            |
-| Dark soy               | 100 ml            |
-| Shaoxing cooking wine  | 200 ml            |
-| Brown sugar            | 30 grams          |
-| Cinnamon sticks        | 2 stuks           |
-| Garlic cloves (smashed)| 2 stuks           |
-| Root ginger (slices)   | 4 plakken         |
-| Spring onions          | 2 stuks           |
-| Fennel seeds           | 1/2 theelepel     |
-| Water                  | Genoeg om te bedekken |
+| Ingrediënt                      | Hoeveelheid           |
+| :------------------------------ | :-------------------- |
+| Boneless pork belly  or Chicken | 700 grams             |
+| Light soy                       | 200 ml                |
+| Dark soy                        | 100 ml                |
+| Shaoxing cooking wine           | 200 ml                |
+| Brown sugar                     | 30 grams              |
+| Cinnamon sticks                 | 2 stuks               |
+| Garlic cloves (smashed)         | 2 stuks               |
+| Root ginger (slices)            | 4 plakken             |
+| Spring onions                   | 2 stuks               |
+| Fennel seeds                    | 1/2 theelepel         |
+| Water                           | Genoeg om te bedekken |
 
 ## Next step: Asian glazed pork or chicken 
 Mix all of the pork or chicken marinade ingredients, except for the water, together in a large oven proof dish which you can cover with a lid. Place the pork or chicken fat side up into the marinade and pour over your water until it just about covers the pork or chicken. Cover with your lid and braise in the oven at 140 for 2 - 2 1/2 hours. 
@@ -74,20 +74,20 @@ Ready to serve! ❤️
 
 ### Sweet spicy drizzle 
 
-| Ingrediënt        | Hoeveelheid       |
-| :---------------- | :---------------- |
-| Mayonnaise        | 2 eetlepels       |
-| Sriracha          | 1 eetlepel        |
-| Honey             | Squeeze           |
-| Rice vinegar      | Dash              |
+| Ingrediënt   | Hoeveelheid |
+| :----------- | :---------- |
+| Mayonnaise   | 2 eetlepels |
+| Sriracha     | 1 eetlepel  |
+| Honey        | Squeeze     |
+| Rice vinegar | Dash        |
 
 
 ### Garnish
 
-| Ingrediënt        | Hoeveelheid       |
-| :---------------- | :---------------- |
-| Carrot            | Naar smaak        |
-| Cabbage           | Naar smaak        |
-| Spring onion      | Naar smaak        |
+| Ingrediënt   | Hoeveelheid |
+| :----------- | :---------- |
+| Carrot       | Naar smaak  |
+| Cabbage      | Naar smaak  |
+| Spring onion | Naar smaak  |
 
 

@@ -1,5 +1,5 @@
 ---
-title: Nostalgia Ultra - Album by Frank Ocean
+title: Nostalgia Ultra - Album by Frank Ocean1
 date: 2024-09-02 11:34:00 +0800
 categories: [Art, Mixtape]
 tags: [music, Pop culture, LGBTQI+]     # TAG names should always be lowercase

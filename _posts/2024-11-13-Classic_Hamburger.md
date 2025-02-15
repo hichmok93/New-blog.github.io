@@ -1,5 +1,5 @@
 ---
-title: Krankzinnige Burger 
+title: Krankzinnige Burger1 
 date: 2024-11-13 17:00:00 +0000
 categories: [koken, gerechten]
 tags: [recept, burger, food]    # TAG names should always be lowercase
@@ -39,29 +39,29 @@ De strijd om de beste hamburger begint bizarre vormen aan te nemen. Sommige burg
 
 ### Burger
 
-| Ingrediënt                         | Hoeveelheid |
-|------------------------------------|-------------|
-| Rundergehakt van halslappen        | 800 g       |
-| Rode ui                            | 1 grote     |
-| Wittewijnazijn                     | scheutje    |
-| Augurken                           | 2 grote     |
-| Brioche burgerbroodjes             | 4           |
-| spek of Groente: a.o.: courgette, Aubergine en of champions        | kleine portie   |
-| Amerikaanse mosterd                | 4 tl        |
-| Tabasco-chipotlesaus               | 1 tl        |
-| Red Leicester-kaas                 | 4 plakjes   |
-| Ketchup                            | 4 tl        |
+| Ingrediënt                                                  | Hoeveelheid   |
+| ----------------------------------------------------------- | ------------- |
+| Rundergehakt van halslappen                                 | 800 g         |
+| Rode ui                                                     | 1 grote       |
+| Wittewijnazijn                                              | scheutje      |
+| Augurken                                                    | 2 grote       |
+| Brioche burgerbroodjes                                      | 4             |
+| spek of Groente: a.o.: courgette, Aubergine en of champions | kleine portie |
+| Amerikaanse mosterd                                         | 4 tl          |
+| Tabasco-chipotlesaus                                        | 1 tl          |
+| Red Leicester-kaas                                          | 4 plakjes     |
+| Ketchup                                                     | 4 tl          |
 
 ### Burgersaus
 
-| Ingrediënt                         | Hoeveelheid |
-|------------------------------------|-------------|
-| IJsbergsla                         | 1/4 krop    |
-| Mayonaise                          | 2 el        |
-| Ketchup                            | 1 el        |
-| Tabasco-chipotlesaus               | 1 tl        |
-| Worcestersaus                      | 1 tl        |
-| Brandy of bourbon                  | 1 tl        |
+| Ingrediënt           | Hoeveelheid |
+| -------------------- | ----------- |
+| IJsbergsla           | 1/4 krop    |
+| Mayonaise            | 2 el        |
+| Ketchup              | 1 el        |
+| Tabasco-chipotlesaus | 1 tl        |
+| Worcestersaus        | 1 tl        |
+| Brandy of bourbon    | 1 tl        |
 
 ---
 

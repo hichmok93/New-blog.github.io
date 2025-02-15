@@ -1,5 +1,5 @@
 ---
-title: Ghanese Pindastoof
+title: Ghanese Pindastoof1
 date: 2024-10-30 16:50:00 +0000
 categories: [koken, gerechten]
 tags: [recept, ghana, food]    # TAG names should always be lowercase
@@ -54,31 +54,31 @@ Veel plezier!
 
 ### Voor de Stoof
 
-| Ingrediënt                             | Hoeveelheid             |
-|----------------------------------------|--------------------------|
-| Hele kip                               | 1 kip van 1,6 kg        |
-| Gemalen koriander                      | 2 tl                    |
-| Zoete gerookte paprikapoeder           | 2 volle tl              |
-| Cayennepeper                           | 1 afgestreken tl        |
-| Olijfolie                              | voldoende               |
-| Middelgrote uien                       | 2                        |
-| Scotch Bonnet- of Madame Jeanette-peper| 1-2                      |
-| Grote aubergines                       | 2                        |
-| Tomatenpuree                           | 1 el                     |
-| Rijpe tomaten                          | 800 g                    |
-| Verse kippenbouillon                   | 750 ml                   |
-| Pindakaas (zonder stukjes)             | 250 g                    |
-| Okra                                   | 300 g                    |
+| Ingrediënt                              | Hoeveelheid      |
+| --------------------------------------- | ---------------- |
+| Hele kip                                | 1 kip van 1,6 kg |
+| Gemalen koriander                       | 2 tl             |
+| Zoete gerookte paprikapoeder            | 2 volle tl       |
+| Cayennepeper                            | 1 afgestreken tl |
+| Olijfolie                               | voldoende        |
+| Middelgrote uien                        | 2                |
+| Scotch Bonnet- of Madame Jeanette-peper | 1-2              |
+| Grote aubergines                        | 2                |
+| Tomatenpuree                            | 1 el             |
+| Rijpe tomaten                           | 800 g            |
+| Verse kippenbouillon                    | 750 ml           |
+| Pindakaas (zonder stukjes)              | 250 g            |
+| Okra                                    | 300 g            |
 
 ### Voor het Superheet Zuur
 
-| Ingrediënt                             | Hoeveelheid             |
-|----------------------------------------|--------------------------|
-| Rode ui                                | 1                        |
-| Scotch Bonnet- of Madame Jeanette-peper| 1-2                      |
-| Verse laurierblaadjes                  | 4                        |
-| Rietsuiker                             | 1 volle tl               |
-| Rodewijnazijn                          | 8 el                     |
+| Ingrediënt                              | Hoeveelheid |
+| --------------------------------------- | ----------- |
+| Rode ui                                 | 1           |
+| Scotch Bonnet- of Madame Jeanette-peper | 1-2         |
+| Verse laurierblaadjes                   | 4           |
+| Rietsuiker                              | 1 volle tl  |
+| Rodewijnazijn                           | 8 el        |
 
 ---
 
