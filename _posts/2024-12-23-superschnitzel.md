@@ -1,5 +1,5 @@
 ---
-title: Recept - Superschnitzel 🐔 
+title: Recept - Superschnitzel 
 date: 2024-12-22 20:50:00 +0800
 categories: [koken, gerechten]
 tags: [recept, schnitzel, food]    # TAG names should always be lowercase
@@ -19,38 +19,38 @@ Een klassiek gerecht dat nooit uit de mode raakt. Met een knapperige korst, een 
 
 ## _Ingrediënten voor de schnitzel:_
 
-| Hoeveelheid         | Ingrediënt                  |
-|---------------------|-----------------------------|
-| 50 g               | **Bloem**                   |
-| 2                 | **Grote eieren**            |
-| 150 g              | **Vers broodkruim**         |
-| 4                  | **Kalfs- of varkenslapjes (110 g elk)** |
-| 1                  | **Sjalot of kleine ui**     |
-| 1                  | **Grote augurk**           |
-| 4 takjes           | **Verse bladpeterselie**    |
-| 1 eetlepel         | **Kappertjes**              |
-| 4                  | **Ansjovisfilets van goede kwaliteit** |
-| -                 | **Zonnebloemolie**          |
-| 4 kleine           | **Klontjes boter**         |
-| -                 | **Zwartebessenjam of bramenjam** |
+| Hoeveelheid | Ingrediënt                              |
+| ----------- | --------------------------------------- |
+| 50 g        | **Bloem**                               |
+| 2           | **Grote eieren**                        |
+| 150 g       | **Vers broodkruim**                     |
+| 4           | **Kalfs- of varkenslapjes (110 g elk)** |
+| 1           | **Sjalot of kleine ui**                 |
+| 1           | **Grote augurk**                        |
+| 4 takjes    | **Verse bladpeterselie**                |
+| 1 eetlepel  | **Kappertjes**                          |
+| 4           | **Ansjovisfilets van goede kwaliteit**  |
+| -           | **Zonnebloemolie**                      |
+| 4 kleine    | **Klontjes boter**                      |
+| -           | **Zwartebessenjam of bramenjam**        |
 
 ## _Ingrediënten voor de aardappelsalade:_
 
-| Hoeveelheid         | Ingrediënt                  |
-|---------------------|-----------------------------|
-| 800 g              | **Nieuwe aardappels**       |
-| 3 eetlepels        | **Zure room**               |
-| 1 tl               | **Engelse mosterd**         |
-| ½ bosje (15 g)     | **Verse bieslook**          |
+| Hoeveelheid    | Ingrediënt            |
+| -------------- | --------------------- |
+| 800 g          | **Nieuwe aardappels** |
+| 3 eetlepels    | **Zure room**         |
+| 1 tl           | **Engelse mosterd**   |
+| ½ bosje (15 g) | **Verse bieslook**    |
 
 ## _Ingrediënten voor de appelsalade:_
 
-| Hoeveelheid         | Ingrediënt                  |
-|---------------------|-----------------------------|
-| 2                  | **Citroenen**               |
-| -                 | **Extra vierge olijfolie**   |
-| 2                  | **Handappels**              |
-| 2 handenvol       | **Waterkers**               |
+| Hoeveelheid | Ingrediënt                 |
+| ----------- | -------------------------- |
+| 2           | **Citroenen**              |
+| -           | **Extra vierge olijfolie** |
+| 2           | **Handappels**             |
+| 2 handenvol | **Waterkers**              |
 
 ---
 
