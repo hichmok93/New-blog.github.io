@@ -5,7 +5,7 @@ categories: [Cultuur, Film]
 tags: [politiek, Film, Art-house]    # TAG names should always be lowercase
 description: De Film geeft een ijzersterke weergave van hoe de Marokkaans islamitische gemeenschap het onderwerp (homo)seksualiteit benadert.
 pin: true
-media_subpath: /assets/img/
+media_subpath: assets/img
 image:
   path: "el_houb.jpg"
   alt: "Film: El Houb (2022)"
