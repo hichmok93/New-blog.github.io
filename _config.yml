@@ -150,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "https://hichmok93.github.io/New-blog.github.io"
+baseurl: "New-blog.github.io"
 
 # ------------ The following options are not recommended to be modified ------------------
 
